@@ -1,0 +1,23 @@
+.setup-splash-bg {
+  background-image: url('../img/spaceman.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.center {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.maxw-75 {
+  max-width: 75%;
+}
+
+.maxh-75 {
+  max-height: 75%;
+}
+
+.scroll {
+  overflow: scroll;
+}
